@@ -1,0 +1,182 @@
+[
+  {
+    "id": "free_001",
+    "text": "Would you live without internet for 3 years (no WiFi, no data, no access) for $300,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_002",
+    "text": "How many consecutive days would you go without showering (public interactions required) for $5,000 per day?",
+    "category": "physical",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_003",
+    "text": "Would you spend 2 years on a deserted island (survival skills required, everyone thinks you're dead) for $10 million?",
+    "category": "isolation",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_004",
+    "text": "Would you delete all social media and never create new accounts for $100,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_005",
+    "text": "Would you eat only rice and beans for 1 year (no other food, no cheat days) for $500,000?",
+    "category": "food",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_006",
+    "text": "Would you live in Detroit for 5 years (can't leave except for work/emergencies) for $1 million?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_007",
+    "text": "Would you give up all caffeine forever (coffee, tea, energy drinks, soda) for $75,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_008",
+    "text": "How many consecutive days could you stay awake (medical supervision, no sleeping) for $25,000 per day?",
+    "category": "physical",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_009",
+    "text": "Would you serve 6 months in county jail (general population, real inmates) for $750,000?",
+    "category": "freedom",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_010",
+    "text": "Would you shave your head completely bald (head, eyebrows, lashes) for $15,000?",
+    "category": "appearance",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_011",
+    "text": "Would you give up listening to music for 10 years (no radio, no concerts, nothing) for $1 million?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_012",
+    "text": "Would you wear the same unwashed outfit daily for 6 months (same clothes, wash once a week) for $50,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_013",
+    "text": "Would you never use a smartphone again (flip phone only) for $500,000?",
+    "category": "technology",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_014",
+    "text": "Would you work at McDonald's for 3 years (can't quit, full-time) for $2 million after?",
+    "category": "work",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_015",
+    "text": "Would you live in complete darkness for 45 days (no light, medical supervision) for $400,000?",
+    "category": "physical",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_016",
+    "text": "Would you move to North Dakota for 3 years (mandatory residency) for $600,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_017",
+    "text": "Would you give up all visual entertainment (TV, movies, YouTube, Netflix) for 5 years for $500,000?",
+    "category": "entertainment",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_018",
+    "text": "Would you switch careers to something you hate for 5 years (can't quit) for $3 million?",
+    "category": "work",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_019",
+    "text": "Would you get a forehead tattoo of a corporate logo (removable after 5 years) for $300,000 per year?",
+    "category": "appearance",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_020",
+    "text": "Would you never eat your top 3 favorite foods again for $150,000?",
+    "category": "food",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_021",
+    "text": "Would you take only cold showers for 2 years (no warm water ever) for $80,000?",
+    "category": "comfort",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_022",
+    "text": "Would you become completely nocturnal for 3 years (sleep during day, awake at night only) for $300,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_023",
+    "text": "Would you live in a 8x8 foot room for 1 year (bed, toilet, sink only) for $400,000?",
+    "category": "isolation",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_024",
+    "text": "Would you become completely sober (no alcohol, no drugs, no smoking) forever for $100,000?",
+    "category": "lifestyle",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_025",
+    "text": "Would you wear a shock collar that zaps you randomly (3-5 times daily) for $75,000 per month?",
+    "category": "physical",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_026",
+    "text": "Would you eat a cricket/grasshopper smoothie every morning for a year for $250,000?",
+    "category": "food",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_027",
+    "text": "Would you cut off contact with your best friend for 5 years (can't explain why) for $1 million?",
+    "category": "relationships",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_028",
+    "text": "Would you live without any climate control (no AC, no heat) for 2 years for $200,000?",
+    "category": "comfort",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_029",
+    "text": "Would you run a 5K every single day for a year (no rest days) for $500,000?",
+    "category": "physical",
+    "deckType": "Free"
+  },
+  {
+    "id": "free_030",
+    "text": "Would you fake your death and assume a new identity (can never contact anyone from old life) for $20 million?",
+    "category": "identity",
+    "deckType": "Free"
+  }
+]

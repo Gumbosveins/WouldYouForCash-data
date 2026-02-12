@@ -1,0 +1,302 @@
+[
+  {
+    "id": "extreme_001",
+    "text": "Would you eat a live tarantula (chew and swallow) for $150,000?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_002",
+    "text": "Would you be waterboarded for 30 seconds (feels like drowning) for $300,000?",
+    "category": "torture",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_003",
+    "text": "Would you fight Mike Tyson in his prime (3 rounds, expect broken bones) for $1 million?",
+    "category": "violence",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_004",
+    "text": "Would you swim with great white sharks in open water (no cage) for $500,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_005",
+    "text": "Would you eat only dog food for 1 year (breakfast, lunch, dinner) for $400,000?",
+    "category": "food",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_006",
+    "text": "Would you get tasered 10 times in one day for $75,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_007",
+    "text": "Would you let Mike Tyson break your arm (medical care provided, full recovery) for $300,000?",
+    "category": "injury",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_008",
+    "text": "Would you live in a house with 50+ venomous snakes loose for 30 days for $2 million?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_009",
+    "text": "Would you eat a bowl of live maggots and worms for $200,000?",
+    "category": "gross",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_010",
+    "text": "Would you base jump off Burj Khalifa (world's tallest building) for $750,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_011",
+    "text": "Would you let a UFC heavyweight punch you full force (expect broken face) for $50,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_012",
+    "text": "Would you spend 7 days buried alive in a coffin (air supplied) for $1 million?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_013",
+    "text": "Would you drink a gallon of spoiled milk that's 3 months expired for $60,000?",
+    "category": "gross",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_014",
+    "text": "Would you walk barefoot on hot coals for 100 feet for $150,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_015",
+    "text": "Would you skydive solo on your first jump (24 hours training) for $100,000?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_016",
+    "text": "Would you eat a pound of rotten meat (medical supervision, antibiotics) for $50,000?",
+    "category": "food",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_017",
+    "text": "Would you have all your teeth extracted (can get implants after) for $5 million?",
+    "category": "body-mod",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_018",
+    "text": "Would you live in a dumpster for 3 months (no leaving except emergencies) for $400,000?",
+    "category": "lifestyle",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_019",
+    "text": "Would you pierce your own nipple with a safety pin for $40,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_020",
+    "text": "Would you eat a family-size jar of mayonnaise in 10 minutes for $25,000?",
+    "category": "gross",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_021",
+    "text": "Would you walk across a tightrope between two buildings (100 feet high, safety harness) for $500,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_022",
+    "text": "Would you get stung by 100 bees intentionally for $150,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_023",
+    "text": "Would you amputate your pinky finger (medical procedure, clean cut) for $2 million?",
+    "category": "body-mod",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_024",
+    "text": "Would you sleep in a morgue with dead bodies for 30 nights for $300,000?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_025",
+    "text": "Would you let 1,000 fire ants crawl on you for 1 hour for $200,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_026",
+    "text": "Would you cliff dive 150 feet into water (Olympic divers do 90 feet) for $500,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_027",
+    "text": "Would you drink a gallon of Tabasco hot sauce in one sitting for $100,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_028",
+    "text": "Would you get a root canal with zero anesthesia for $100,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_029",
+    "text": "Would you eat hákarl (rotten fermented shark, world's most disgusting food) for $30,000?",
+    "category": "food",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_030",
+    "text": "Would you take a lie detector test about your darkest secrets live on TV for $750,000?",
+    "category": "exposure",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_031",
+    "text": "Would you wrestle a 10-foot alligator (handlers nearby) for $600,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_032",
+    "text": "Would you get pepper sprayed directly in the eyes and hold them open for $100,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_033",
+    "text": "Would you stand naked in a -40°F freezer for 2 hours for $200,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_034",
+    "text": "Would you eat 5 Carolina Reaper peppers back-to-back (world's hottest) for $75,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_035",
+    "text": "Would you have one rib surgically removed for $3 million?",
+    "category": "body-mod",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_036",
+    "text": "Would you eat a ghost pepper every single day for 6 months for $400,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_037",
+    "text": "Would you walk barefoot on Legos for 5 miles for $150,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_038",
+    "text": "Would you free solo climb a 500-foot cliff (no rope, experienced climbers die) for $2 million?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_039",
+    "text": "Would you eat a plate of sheep eyeballs for $250,000?",
+    "category": "gross",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_040",
+    "text": "Would you get a full-body wax in one session (everything) for $100,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_041",
+    "text": "Would you spend 30 days in solitary confinement (no human contact, no books) for $750,000?",
+    "category": "isolation",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_042",
+    "text": "Would you eat a family-size jar of wasabi in one sitting for $150,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_043",
+    "text": "Would you have all 4 wisdom teeth removed without any anesthesia for $400,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_044",
+    "text": "Would you bungee jump off the world's highest bridge (Macau Tower, 764 feet) for $500,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_045",
+    "text": "Would you hold dry ice in your bare hands for 5 minutes for $200,000?",
+    "category": "danger",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_046",
+    "text": "Would you get pepper sprayed and tear gassed at the same time for $100,000?",
+    "category": "pain",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_047",
+    "text": "Would you live with 100+ rats in your apartment for 1 year for $800,000?",
+    "category": "fear",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_048",
+    "text": "Would you eat a sandwich with ingredients expired by 6 months for $75,000?",
+    "category": "gross",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_049",
+    "text": "Would you complete Navy SEAL Hell Week (5.5 days, 4 hours sleep total) for $1.5 million?",
+    "category": "extreme-challenge",
+    "deckType": "Extreme"
+  },
+  {
+    "id": "extreme_050",
+    "text": "Would you let a prison inmate give you a tattoo with homemade equipment for $250,000?",
+    "category": "risk",
+    "deckType": "Extreme"
+  }
+]

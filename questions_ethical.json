@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ethical_001",
+    "text": "Would you turn in your best friend for committing murder (they confess to you) for $500,000?",
+    "category": "loyalty",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_002",
+    "text": "Would you push a stranger off a bridge to stop a train from hitting 5 people for $0?",
+    "category": "trolley-problem",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_003",
+    "text": "Would you know the exact date and time of your death for $1 million?",
+    "category": "knowledge",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_004",
+    "text": "Would you erase all memories of your dead loved ones to stop the grief for $2 million?",
+    "category": "identity",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_005",
+    "text": "Would you lie under oath to save an innocent person from life in prison (you'd commit perjury) for $0?",
+    "category": "justice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_006",
+    "text": "Would you steal expensive medicine to save your dying child (the company refuses to help) for $0?",
+    "category": "morality",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_007",
+    "text": "Would you sacrifice 1,000 random people to end world hunger forever for $0?",
+    "category": "greater-good",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_008",
+    "text": "Would you let an innocent person serve 10 years in prison instead of you (you committed the crime) for $5 million?",
+    "category": "justice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_009",
+    "text": "Would you leak classified government secrets that expose war crimes but endanger soldiers for $10 million?",
+    "category": "whistleblowing",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_010",
+    "text": "Would you erase your partner's traumatic childhood memory without asking (they suffer daily) for $500,000?",
+    "category": "consent",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_011",
+    "text": "Would you clone yourself knowing the clone would be conscious, self-aware, and potentially suffer for $20 million?",
+    "category": "ethics",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_012",
+    "text": "Would you see a 10-second preview of your death (how and where) for $2 million?",
+    "category": "knowledge",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_013",
+    "text": "Would you punch your parent in the face (full force) for $1 million?",
+    "category": "family",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_014",
+    "text": "Would you save your dog or a stranger's toddler from a burning building (can only save one) for $0?",
+    "category": "value-of-life",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_015",
+    "text": "Would you hear every lie ever told to you (replayed in your mind) for $750,000?",
+    "category": "truth",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_016",
+    "text": "Would you take credit for a coworker's cancer cure (they'd be forgotten, you'd be famous) for $20 million?",
+    "category": "integrity",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_017",
+    "text": "Would you press a button that kills a random person you'll never know for $50 million?",
+    "category": "morality",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_018",
+    "text": "Would you live in a Matrix-style simulation (perfect life, aware it's fake) while your real body suffers for $0?",
+    "category": "reality",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_019",
+    "text": "Would you have the power to read minds but never turn it off (hear everyone's thoughts 24/7) for $10 million?",
+    "category": "power",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_020",
+    "text": "Would you become immortal (never age, can't die) but watch everyone you love die over centuries for $0?",
+    "category": "life-death",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_021",
+    "text": "Would you cure all diseases but 2 billion random people die instantly (Thanos-style) for $0?",
+    "category": "greater-good",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_022",
+    "text": "Would you frame a known child predator (they're guilty of other crimes) for murder to put them away for life for $2 million?",
+    "category": "justice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_023",
+    "text": "Would you know exactly what everyone truly thinks about you (unfiltered thoughts) for $300,000?",
+    "category": "truth",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_024",
+    "text": "Would you give up your only child for adoption (never see them again) to save 1,000 orphans for $0?",
+    "category": "sacrifice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_025",
+    "text": "Would you sell military secrets to a hostile nation causing American soldier deaths for $100 million?",
+    "category": "treason",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_026",
+    "text": "Would you release a serial killer who will kill again to save 10 innocent hostages for $0?",
+    "category": "justice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_027",
+    "text": "Would you erase your worst memory but also lose your best memory (can't choose) for $1 million?",
+    "category": "memory",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_028",
+    "text": "Would you remove free will from all humans to eliminate suffering, crime, and war for $0?",
+    "category": "philosophy",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_029",
+    "text": "Would you go back in time and kill baby Hitler (knowing you'd erase millions of lives, including WWII heroes) for $0?",
+    "category": "time-travel",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_030",
+    "text": "Would you genetically engineer future humans without sadness, anger, or fear (only positive emotions) for $25 million?",
+    "category": "bioethics",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_031",
+    "text": "Would you tell your best friend their spouse is cheating (ruins their marriage, they have 3 kids) for $500,000?",
+    "category": "loyalty",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_032",
+    "text": "Would you live 500 years completely alone (no human contact ever) or die tomorrow with loved ones for $20 million?",
+    "category": "loneliness",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_033",
+    "text": "Would you die today (organs harvested) to save 5 people (your family gets $10 million) for $0?",
+    "category": "sacrifice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_034",
+    "text": "Would you lie to your dying mother that her estranged son forgives her (he doesn't, but she'd die in peace) for $0?",
+    "category": "compassion",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_035",
+    "text": "Would you create superintelligent AI that will surpass and possibly replace humanity for $100 million?",
+    "category": "technology",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_036",
+    "text": "Would you know with 100% certainty if your current partner will cheat on you in the future for $200,000?",
+    "category": "relationships",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_037",
+    "text": "Would you ban all organized religion worldwide but achieve permanent world peace for $0?",
+    "category": "philosophy",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_038",
+    "text": "Would you genetically engineer your unborn child to be a genius (IQ 180) but emotionally stunted for $5 million?",
+    "category": "bioethics",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_039",
+    "text": "Would you testify against your brother in court (he's guilty, faces 20 years) for witness protection and $1 million?",
+    "category": "justice",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_040",
+    "text": "Would you erase all art, music, and literature from existence but cure all cancer forever for $0?",
+    "category": "value",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_041",
+    "text": "Would you relive your most traumatic day every year on the anniversary for $300,000 annually?",
+    "category": "suffering",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_042",
+    "text": "Would you become an authoritarian dictator (must execute dissenters) but bring prosperity to your nation for $0?",
+    "category": "power",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_043",
+    "text": "Would you see a countdown above everyone's head showing when they'll die for $2 million?",
+    "category": "knowledge",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_044",
+    "text": "Would you take a pill that makes you permanently happy but removes your ability to perceive truth for $0?",
+    "category": "philosophy",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_045",
+    "text": "Would you sabotage your worst enemy's business (they go bankrupt, 500 employees lose jobs) for $3 million?",
+    "category": "revenge",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_046",
+    "text": "Would you redistribute all global wealth equally (everyone gets $35,000/year, no rich or poor) for $0?",
+    "category": "equality",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_047",
+    "text": "Would you expose a company's illegal pollution (causes cancer) knowing 30,000 workers lose their jobs for $15 million?",
+    "category": "whistleblowing",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_048",
+    "text": "Would you guarantee your child becomes a billionaire but they'll never experience failure, rejection, or hardship for $0?",
+    "category": "parenting",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_049",
+    "text": "Would you eliminate all national borders and languages (everyone speaks one language) but lose all cultural diversity for $0?",
+    "category": "society",
+    "deckType": "EthicalDilemmas"
+  },
+  {
+    "id": "ethical_050",
+    "text": "Would you live a meaningful life in poverty (happy but broke) or a meaningless life in luxury (depressed but rich) for $50 million?",
+    "category": "purpose",
+    "deckType": "EthicalDilemmas"
+  }
+]

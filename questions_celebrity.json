@@ -1,0 +1,302 @@
+[
+  {
+    "id": "celeb_001",
+    "text": "Would you trade lives with a C-list celebrity (constant struggle for relevance, small income) for 5 years for $500,000?",
+    "category": "identity",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_002",
+    "text": "Would you date your most hated celebrity for 1 year (must seem genuine in public) for $1 million?",
+    "category": "dating",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_003",
+    "text": "Would you become instantly famous but can never use social media, streaming, or the internet again for $2 million?",
+    "category": "fame",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_004",
+    "text": "Would you be Kanye West's personal assistant for 2 years (deal with all his chaos) for $400,000?",
+    "category": "work",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_005",
+    "text": "Would you star in a reality show that exposes your worst habits and secrets for $750,000?",
+    "category": "privacy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_006",
+    "text": "Would you have paparazzi follow you 24/7 for 2 years (including bathroom, bedroom, etc.) for $1.5 million?",
+    "category": "privacy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_007",
+    "text": "Would you have a one-hit wonder worse than 'Friday' by Rebecca Black that defines your entire life for $200,000?",
+    "category": "music",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_008",
+    "text": "Would you be as famous as Amber Heard during her trial (everyone hates you, career destroyed) for $5 million?",
+    "category": "reputation",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_009",
+    "text": "Would you live in a mansion with 24/7 livestream cameras in every room (including bathrooms) for $10 million annually?",
+    "category": "lifestyle",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_010",
+    "text": "Would you be in a fake PR marriage (must live together, seem in love) with a celebrity you find unattractive for 3 years for $2 million?",
+    "category": "relationships",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_011",
+    "text": "Would you host a late-night show but every joke bombs and you get roasted online daily for $3 million over 2 years?",
+    "category": "entertainment",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_012",
+    "text": "Would you become a viral meme like 'Hide the Pain Harold' (your face = universal joke forever) for $250,000?",
+    "category": "internet",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_013",
+    "text": "Would you attend red carpet events weekly for a year but trip and fall on camera at least once per month for $75,000?",
+    "category": "events",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_014",
+    "text": "Would you have a manufactured feud with Beyoncé's fanbase (they'll destroy you online) for $1 million?",
+    "category": "drama",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_015",
+    "text": "Would you be a Donald Trump impersonator full-time (at rallies, events, people think you support him) for $300,000 annually?",
+    "category": "work",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_016",
+    "text": "Would you have 100 million bot followers but everyone knows they're fake for $300,000?",
+    "category": "social-media",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_017",
+    "text": "Would you win an Oscar for playing a Nazi sympathizer (people think you believe it) for $1 million?",
+    "category": "awards",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_018",
+    "text": "Would you be Tom Cruise's stunt double and do all his dangerous stunts (broken bones guaranteed) for $500,000?",
+    "category": "movies",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_019",
+    "text": "Would you have a wax figure at Madame Tussauds but it's intentionally ugly and mocked online for $25,000?",
+    "category": "fame",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_020",
+    "text": "Would you be Simon Cowell on America's Got Talent (must crush people's dreams on camera) for $1 million per season?",
+    "category": "tv",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_021",
+    "text": "Would you have a Will Smith/Chris Rock level scandal (everyone picks sides, you're the villain) for $3 million?",
+    "category": "controversy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_022",
+    "text": "Would you ghostwrite a celebrity's bestselling memoir (they take all credit, you sign NDA forever) for $300,000?",
+    "category": "writing",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_023",
+    "text": "Would you attend every major award show for a year but always lose when nominated (cameras on your disappointed face) for $150,000?",
+    "category": "events",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_024",
+    "text": "Would you be famous as the person who tripped and fell at the Oscars on live TV (replayed forever) for $400,000?",
+    "category": "fame",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_025",
+    "text": "Which celebrity would you live with for 1 year (share bedroom, bathroom, everything) for $500,000? Name them.",
+    "category": "lifestyle",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_026",
+    "text": "Would you be a spokesperson for a pyramid scheme/MLM (people lose money because of you) for $1 million?",
+    "category": "endorsement",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_027",
+    "text": "Would you have your messy, dirty home (worst state) featured on MTV Cribs for $100,000?",
+    "category": "privacy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_028",
+    "text": "Would you stage a Kim Kardashian-style sex tape leak (everyone you know will see it) for $2 million?",
+    "category": "scandal",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_029",
+    "text": "Would you launch a perfume that everyone says smells like garbage for $500,000?",
+    "category": "branding",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_030",
+    "text": "Would you be Travis Kelce's plus-one to all Taylor Swift events for a year (Swifties attack you online) for $600,000?",
+    "category": "lifestyle",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_031",
+    "text": "Would you have an unauthorized tell-all biography exposing your darkest secrets published for $800,000?",
+    "category": "privacy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_032",
+    "text": "Would you be Jackie Chan's stunt double (expect multiple injuries, possible permanent damage) for $750,000 annually?",
+    "category": "danger",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_033",
+    "text": "Would you get a Hollywood Walk of Fame star but it's constantly vandalized and you must pay for repairs for $400,000?",
+    "category": "fame",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_034",
+    "text": "Would you get cancelled like James Charles (lose everything, mass hate, career over) for $500,000?",
+    "category": "controversy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_035",
+    "text": "Would you have a Comedy Central Roast where comedians destroy you with brutal truths (no filters) for $350,000?",
+    "category": "comedy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_036",
+    "text": "Would you be Lizzo's backup dancer on tour for 6 months (intense workouts, grueling schedule) for $150,000?",
+    "category": "music",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_037",
+    "text": "Would you have paparazzi sell your unflattering photos (worst angles, no makeup, crying) weekly for $750,000 annually?",
+    "category": "privacy",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_038",
+    "text": "Would you voice a character in a children's movie that becomes a cringe TikTok sound (mocked for years) for $200,000?",
+    "category": "voice-acting",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_039",
+    "text": "Would you publish an autobiography full of lies (everyone believes them, damages relationships) for $1.5 million?",
+    "category": "writing",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_040",
+    "text": "Which celebrity would you train as their personal trainer (4am wakeups, their mood swings, demanding) for $400,000? Name them.",
+    "category": "fitness",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_041",
+    "text": "Would you have your private DMs with your ex leaked to the public (everyone reads your intimate conversations) for $300,000?",
+    "category": "scandal",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_042",
+    "text": "Would you be the person twerking in the background of Miley Cyrus's 'Wrecking Ball' video for $10,000?",
+    "category": "music",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_043",
+    "text": "Would you have a Netflix documentary exposing your failures and lowest moments (narrated by your worst enemy) for $600,000?",
+    "category": "film",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_044",
+    "text": "Would you be a Kim Jong Un lookalike and attend events as him (people think you support him) for $100,000 per event?",
+    "category": "impersonation",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_045",
+    "text": "Would you have a year-long feud with Elon Musk (he tweets about you daily to millions) for $1 million?",
+    "category": "drama",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_046",
+    "text": "Would you do a Super Bowl commercial for erectile dysfunction (your face/name = ED forever) for $800,000?",
+    "category": "advertising",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_047",
+    "text": "Would you live in a 'haunted' mansion with fake paranormal events staged for reality TV for $600,000?",
+    "category": "paranormal",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_048",
+    "text": "Would you be Gordon Ramsay's taste tester and get yelled at daily on camera for $300,000?",
+    "category": "food",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_049",
+    "text": "Would you have a reality show that gets cancelled after 2 episodes (you're the most hated failure) for $400,000?",
+    "category": "tv",
+    "deckType": "CelebritySwap"
+  },
+  {
+    "id": "celeb_050",
+    "text": "Which celebrity would you manage their Twitter/X account for (you get blamed for their controversial tweets) for $500,000? Name them.",
+    "category": "social-media",
+    "deckType": "CelebritySwap"
+  }
+]
