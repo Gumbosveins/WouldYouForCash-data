@@ -1,13 +1,13 @@
 [
   {
     "id": "relation_001",
-    "text": "Would you date your ex's sibling for 2 years (your ex will find out immediately) for $250,000?",
+    "text": "Would you date your ex's sibling for 2 years for $250,000?",
     "category": "dating",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_002",
-    "text": "Would you let your partner plan your entire wedding (zero input from you, can't veto anything) for $75,000?",
+    "text": "Would you let your partner plan your entire wedding for $75,000?",
     "category": "marriage",
     "deckType": "RelationshipRoulette"
   },
@@ -19,49 +19,49 @@
   },
   {
     "id": "relation_004",
-    "text": "Would you never be able to say 'I love you' out loud again (can only show it through actions) for $1 million?",
+    "text": "Would you never be able to say 'I love you' out loud again for $1 million?",
     "category": "communication",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_005",
-    "text": "Would you go on a blind date arranged by your worst enemy (they know your insecurities) for $50,000?",
+    "text": "Would you go on a blind date arranged by your worst enemy for $50,000?",
     "category": "dating",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_006",
-    "text": "Would you have your partner's ex move into your home for 1 year (shares common spaces) for $400,000?",
+    "text": "Would you have your partner's ex move into your home for 1 year for $400,000?",
     "category": "living-together",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_007",
-    "text": "Would you let your in-laws choose where you live for 5 years (could be anywhere) for $300,000?",
+    "text": "Would you let your in-laws choose where you live for 5 years for $300,000?",
     "category": "family",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_008",
-    "text": "Would you go through your partner's phone right now (they'll never know) for $25,000?",
+    "text": "Would you go through your partner's phone right now for $5,000?",
     "category": "trust",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_009",
-    "text": "Would you give up dating entirely for 5 years (complete celibacy, no relationships) for $2 million?",
+    "text": "Would you give up dating entirely for 5 years for $2 million?",
     "category": "singlehood",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_010",
-    "text": "Would you have a destination wedding but only 10 guests allowed (must cut half your list) for $150,000?",
+    "text": "Would you have a destination wedding but only 10 guests allowed for $150,000?",
     "category": "marriage",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_011",
-    "text": "Would you let your parents arrange blind dates for you every week for a year (must go on all of them) for $150,000?",
+    "text": "Would you let your parents arrange blind dates for you every week for a year for $150,000?",
     "category": "family",
     "deckType": "RelationshipRoulette"
   },
@@ -73,37 +73,37 @@
   },
   {
     "id": "relation_013",
-    "text": "Would you live with your in-laws for 3 years (share kitchen, bathroom, no privacy) for $500,000?",
+    "text": "Would you live with your in-laws for 3 years for $500,000?",
     "category": "family",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_014",
-    "text": "Would you let your partner read every text you've ever sent (including before you met) for $100,000?",
+    "text": "Would you let your partner read every text you've ever sent for $100,000?",
     "category": "privacy",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_015",
-    "text": "Would you give up all physical intimacy for 1 year (no sex, no kissing, no touching) for $750,000?",
+    "text": "Would you give up all physical intimacy for 1 year for $750,000?",
     "category": "intimacy",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_016",
-    "text": "Would you date someone 35 years older than you for 2 years (everyone you know will meet them) for $400,000?",
+    "text": "Would you date someone 35 years older than you for 2 years for $400,000?",
     "category": "dating",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_017",
-    "text": "Would you have your first dance at your wedding be to 'Baby Shark' for $75,000?",
+    "text": "Would you have your first dance at your wedding be to 'Baby Shark' for $15,000?",
     "category": "marriage",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_018",
-    "text": "Would you let your partner choose your hairstyle and color for a year (they choose monthly) for $100,000?",
+    "text": "Would you let your partner choose your hairstyle and color for a year for $10,000?",
     "category": "appearance",
     "deckType": "RelationshipRoulette"
   },
@@ -133,7 +133,7 @@
   },
   {
     "id": "relation_023",
-    "text": "Would you date someone with completely opposite political views (Trump supporter if you're liberal, or vice versa) for 1 year for $300,000?",
+    "text": "Would you date someone with completely opposite political views for 1 year for $300,000?",
     "category": "compatibility",
     "deckType": "RelationshipRoulette"
   },
@@ -151,13 +151,13 @@
   },
   {
     "id": "relation_026",
-    "text": "Would you merge all social media with your partner (joint accounts, same posts, can't have separate profiles) for 1 year for $100,000?",
+    "text": "Would you merge all social media accounts with your partner for 1 year for $100,000?",
     "category": "social-media",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_027",
-    "text": "Would you let your partner's parents plan your honeymoon (you have no say where, when, or what you do) for $250,000?",
+    "text": "Would you let your partner's parents plan your honeymoon for $25,000?",
     "category": "family",
     "deckType": "RelationshipRoulette"
   },
@@ -193,13 +193,13 @@
   },
   {
     "id": "relation_033",
-    "text": "Would you have a courthouse wedding (immediate family only, no reception) instead of your dream wedding for $300,000?",
+    "text": "Would you have a courthouse wedding (immediate family only, no reception) instead of your dream wedding for $30,000?",
     "category": "marriage",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_034",
-    "text": "Would you let your partner name your future children anything they want (zero input from you) for $750,000?",
+    "text": "Would you let your partner name your future children anything they want (zero input from you) for $75,000?",
     "category": "family",
     "deckType": "RelationshipRoulette"
   },
@@ -229,13 +229,13 @@
   },
   {
     "id": "relation_039",
-    "text": "Would you date someone identical to your ex (same personality, appearance, everything) for $400,000?",
+    "text": "Would you date someone identical to your ex for $400,000?",
     "category": "dating",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_040",
-    "text": "Would you let your partner plan every single date for 2 years (can't suggest anything yourself) for $150,000?",
+    "text": "Would you let your partner plan every single date for 2 years for $100,000?",
     "category": "romance",
     "deckType": "RelationshipRoulette"
   },
@@ -247,25 +247,25 @@
   },
   {
     "id": "relation_042",
-    "text": "Would you hyphenate or change to your partner's last name (even if you don't want to) for $250,000?",
+    "text": "Would you hyphenate or change to your partner's last name (even if you don't want to) for $50,000?",
     "category": "identity",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_043",
-    "text": "Would you let your partner decorate your entire home alone (can't veto anything, must live with it 3 years) for $200,000?",
+    "text": "Would you let your partner decorate your entire home alone (can't veto anything, must live with it 3 years) for $20,000?",
     "category": "home",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_044",
-    "text": "Would you be in a long-distance relationship for 5 years (different continents, see each other 2x/year max) for $2 million?",
+    "text": "Would you be in a long-distance relationship for 5 years (different continents, see each other 2x/year) for $2 million?",
     "category": "distance",
     "deckType": "RelationshipRoulette"
   },
   {
     "id": "relation_045",
-    "text": "Would you let your partner choose every vacation destination for 10 years (you never get to pick) for $300,000?",
+    "text": "Would you let your partner choose every vacation destination for 10 years for $300,000?",
     "category": "travel",
     "deckType": "RelationshipRoulette"
   },

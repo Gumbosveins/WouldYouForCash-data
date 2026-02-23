@@ -79,7 +79,7 @@
   },
   {
     "id": "extreme_014",
-    "text": "Would you walk barefoot on hot coals for 100 feet for $150,000?",
+    "text": "Would you walk barefoot on hot coals for 33m/100feet for $150,000?",
     "category": "pain",
     "deckType": "Extreme"
   },
@@ -91,7 +91,7 @@
   },
   {
     "id": "extreme_016",
-    "text": "Would you eat a pound of rotten meat (medical supervision, antibiotics) for $50,000?",
+    "text": "Would you eat a pound of rotten meat for $50,000?",
     "category": "food",
     "deckType": "Extreme"
   },
@@ -121,7 +121,7 @@
   },
   {
     "id": "extreme_021",
-    "text": "Would you walk across a tightrope between two buildings (100 feet high, safety harness) for $500,000?",
+    "text": "Would you walk across a tightrope between two buildings (30m high) for $500,000?",
     "category": "danger",
     "deckType": "Extreme"
   },
@@ -133,7 +133,7 @@
   },
   {
     "id": "extreme_023",
-    "text": "Would you amputate your pinky finger (medical procedure, clean cut) for $2 million?",
+    "text": "Would you amputate your pinky finger for $2 million?",
     "category": "body-mod",
     "deckType": "Extreme"
   },
@@ -151,7 +151,7 @@
   },
   {
     "id": "extreme_026",
-    "text": "Would you cliff dive 150 feet into water (Olympic divers do 90 feet) for $500,000?",
+    "text": "Would you cliff dive 50m/150feet into water for $500,000?",
     "category": "danger",
     "deckType": "Extreme"
   },
@@ -169,7 +169,7 @@
   },
   {
     "id": "extreme_029",
-    "text": "Would you eat hákarl (rotten fermented shark, world's most disgusting food) for $30,000?",
+    "text": "Would you eat hákarl (rotten fermented shark, world's most disgusting food) for $10,000?",
     "category": "food",
     "deckType": "Extreme"
   },
@@ -181,19 +181,19 @@
   },
   {
     "id": "extreme_031",
-    "text": "Would you wrestle a 10-foot alligator (handlers nearby) for $600,000?",
+    "text": "Would you fight a 20m/60feet anaconda for $800,000?",
     "category": "danger",
     "deckType": "Extreme"
   },
   {
     "id": "extreme_032",
-    "text": "Would you get pepper sprayed directly in the eyes and hold them open for $100,000?",
+    "text": "Would you get pepper sprayed directly in the eyes and hold them open for $50,000?",
     "category": "pain",
     "deckType": "Extreme"
   },
   {
     "id": "extreme_033",
-    "text": "Would you stand naked in a -40°F freezer for 2 hours for $200,000?",
+    "text": "Would you stand naked in a -40°C (-40°F) freezer for 1 hours for $200,000?",
     "category": "pain",
     "deckType": "Extreme"
   },
@@ -223,7 +223,7 @@
   },
   {
     "id": "extreme_038",
-    "text": "Would you free solo climb a 500-foot cliff (no rope, experienced climbers die) for $2 million?",
+    "text": "Would you free solo climb a 500-foot cliff for $2 million?",
     "category": "danger",
     "deckType": "Extreme"
   },
@@ -235,13 +235,13 @@
   },
   {
     "id": "extreme_040",
-    "text": "Would you get a full-body wax in one session (everything) for $100,000?",
+    "text": "Would you get a full-body wax in one session for $100,000?",
     "category": "pain",
     "deckType": "Extreme"
   },
   {
     "id": "extreme_041",
-    "text": "Would you spend 30 days in solitary confinement (no human contact, no books) for $750,000?",
+    "text": "Would you spend 30 days in solitary confinement for $750,000?",
     "category": "isolation",
     "deckType": "Extreme"
   },
@@ -259,7 +259,7 @@
   },
   {
     "id": "extreme_044",
-    "text": "Would you bungee jump off the world's highest bridge (Macau Tower, 764 feet) for $500,000?",
+    "text": "Would you bungee jump off the world's highest bridge, Macau Tower, 232m/764feet for $500,000?",
     "category": "danger",
     "deckType": "Extreme"
   },
@@ -271,7 +271,7 @@
   },
   {
     "id": "extreme_046",
-    "text": "Would you get pepper sprayed and tear gassed at the same time for $100,000?",
+    "text": "Would fight a 2m/6feet high tarantula (legs 4m/12feet long)  $800,000?",
     "category": "pain",
     "deckType": "Extreme"
   },

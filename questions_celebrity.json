@@ -7,7 +7,7 @@
   },
   {
     "id": "celeb_002",
-    "text": "Would you date your most hated celebrity for 1 year (must seem genuine in public) for $1 million?",
+    "text": "Would you date your most hated celebrity for 1 year for $1 million?",
     "category": "dating",
     "deckType": "CelebritySwap"
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": "celeb_004",
-    "text": "Would you be Kanye West's personal assistant for 2 years (deal with all his chaos) for $400,000?",
+    "text": "Would you be Kanye West's personal assistant for 2 years for $400,000?",
     "category": "work",
     "deckType": "CelebritySwap"
   },
@@ -31,7 +31,7 @@
   },
   {
     "id": "celeb_006",
-    "text": "Would you have paparazzi follow you 24/7 for 2 years (including bathroom, bedroom, etc.) for $1.5 million?",
+    "text": "Would you have paparazzi follow you 24/7 for 2 years for $1.5 million?",
     "category": "privacy",
     "deckType": "CelebritySwap"
   },
@@ -43,19 +43,19 @@
   },
   {
     "id": "celeb_008",
-    "text": "Would you be as famous as Amber Heard during her trial (everyone hates you, career destroyed) for $5 million?",
+    "text": "Would you be as famous (in a bad way) as Amber Heard during her trial for $5 million?",
     "category": "reputation",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_009",
-    "text": "Would you live in a mansion with 24/7 livestream cameras in every room (including bathrooms) for $10 million annually?",
+    "text": "Would you live in a mansion with 24/7 livestream cameras in every room for $2 million annually?",
     "category": "lifestyle",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_010",
-    "text": "Would you be in a fake PR marriage (must live together, seem in love) with a celebrity you find unattractive for 3 years for $2 million?",
+    "text": "Would you be in a fake PR marriage with a celebrity you find unattractive for 3 years for $2 million?",
     "category": "relationships",
     "deckType": "CelebritySwap"
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": "celeb_012",
-    "text": "Would you become a viral meme like 'Hide the Pain Harold' (your face = universal joke forever) for $250,000?",
+    "text": "Would you become a viral meme like 'Hide the Pain Harold' for $250,000?",
     "category": "internet",
     "deckType": "CelebritySwap"
   },
@@ -85,7 +85,7 @@
   },
   {
     "id": "celeb_015",
-    "text": "Would you be a Donald Trump impersonator full-time (at rallies, events, people think you support him) for $300,000 annually?",
+    "text": "Would you be a Donald Trump impersonator full-time for $300,000 annually?",
     "category": "work",
     "deckType": "CelebritySwap"
   },
@@ -97,25 +97,25 @@
   },
   {
     "id": "celeb_017",
-    "text": "Would you win an Oscar for playing a Nazi sympathizer (people think you believe it) for $1 million?",
+    "text": "Would you win an Oscar for playing a Nazi sympathizer for $1 million?",
     "category": "awards",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_018",
-    "text": "Would you be Tom Cruise's stunt double and do all his dangerous stunts (broken bones guaranteed) for $500,000?",
+    "text": "Would you be Tom Cruise's stunt double and do all his dangerous stunts for $500,000?",
     "category": "movies",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_019",
-    "text": "Would you have a wax figure at Madame Tussauds but it's intentionally ugly and mocked online for $25,000?",
+    "text": "Would you have a wax figure at Madame Tussauds but it's intentionally ugly for $25,000?",
     "category": "fame",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_020",
-    "text": "Would you be Simon Cowell on America's Got Talent (must crush people's dreams on camera) for $1 million per season?",
+    "text": "Would you be Simon Cowell on America's Got Talent for $1 million per season?",
     "category": "tv",
     "deckType": "CelebritySwap"
   },
@@ -157,13 +157,13 @@
   },
   {
     "id": "celeb_027",
-    "text": "Would you have your messy, dirty home (worst state) featured on MTV Cribs for $100,000?",
+    "text": "Would you have your messy, dirty home featured on MTV Cribs for $100,000?",
     "category": "privacy",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_028",
-    "text": "Would you stage a Kim Kardashian-style sex tape leak (everyone you know will see it) for $2 million?",
+    "text": "Would you stage a Kim Kardashian-style sex tape leak for $2 million?",
     "category": "scandal",
     "deckType": "CelebritySwap"
   },
@@ -187,7 +187,7 @@
   },
   {
     "id": "celeb_032",
-    "text": "Would you be Jackie Chan's stunt double (expect multiple injuries, possible permanent damage) for $750,000 annually?",
+    "text": "Would you be Jackie Chan's stunt double for $750,000 annually?",
     "category": "danger",
     "deckType": "CelebritySwap"
   },
@@ -199,37 +199,37 @@
   },
   {
     "id": "celeb_034",
-    "text": "Would you get cancelled like James Charles (lose everything, mass hate, career over) for $500,000?",
+    "text": "Would you get cancelled for $500,000?",
     "category": "controversy",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_035",
-    "text": "Would you have a Comedy Central Roast where comedians destroy you with brutal truths (no filters) for $350,000?",
+    "text": "Would you have a Comedy Central Roast where comedians destroy you with brutal truths for $50,000?",
     "category": "comedy",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_036",
-    "text": "Would you be Lizzo's backup dancer on tour for 6 months (intense workouts, grueling schedule) for $150,000?",
+    "text": "Would you be Lizzo's backup dancer on tour for 6 months for $150,000?",
     "category": "music",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_037",
-    "text": "Would you have paparazzi sell your unflattering photos (worst angles, no makeup, crying) weekly for $750,000 annually?",
+    "text": "Would you have paparazzi sell your unflattering photos weekly for $500,000 annually?",
     "category": "privacy",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_038",
-    "text": "Would you voice a character in a children's movie that becomes a cringe TikTok sound (mocked for years) for $200,000?",
+    "text": "Would you voice a character in a children's movie that becomes a cringe TikTok sound for $200,000?",
     "category": "voice-acting",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_039",
-    "text": "Would you publish an autobiography full of lies (everyone believes them, damages relationships) for $1.5 million?",
+    "text": "Would you publish an autobiography full of lies for $1.5 million?",
     "category": "writing",
     "deckType": "CelebritySwap"
   },
@@ -241,7 +241,7 @@
   },
   {
     "id": "celeb_041",
-    "text": "Would you have your private DMs with your ex leaked to the public (everyone reads your intimate conversations) for $300,000?",
+    "text": "Would you have your private DMs with your ex leaked to the public for $300,000?",
     "category": "scandal",
     "deckType": "CelebritySwap"
   },
@@ -253,31 +253,31 @@
   },
   {
     "id": "celeb_043",
-    "text": "Would you have a Netflix documentary exposing your failures and lowest moments (narrated by your worst enemy) for $600,000?",
+    "text": "Would you have a Netflix documentary exposing your failures and lowest moments (narrated by your mom) for $600,000?",
     "category": "film",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_044",
-    "text": "Would you be a Kim Jong Un lookalike and attend events as him (people think you support him) for $100,000 per event?",
+    "text": "Would you be a Kim Jong Un lookalike and attend events as him for $10,000 per event?",
     "category": "impersonation",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_045",
-    "text": "Would you have a year-long feud with Elon Musk (he tweets about you daily to millions) for $1 million?",
+    "text": "Would you have a year-long feud with Elon Musk on X for $1 million?",
     "category": "drama",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_046",
-    "text": "Would you do a Super Bowl commercial for erectile dysfunction (your face/name = ED forever) for $800,000?",
+    "text": "Would you do a Super Bowl commercial for erectile dysfunction for $800,000?",
     "category": "advertising",
     "deckType": "CelebritySwap"
   },
   {
     "id": "celeb_047",
-    "text": "Would you live in a 'haunted' mansion with fake paranormal events staged for reality TV for $600,000?",
+    "text": "Would you live in a haunted mansion for 6 months with fake paranormal events staged for reality TV for $600,000?",
     "category": "paranormal",
     "deckType": "CelebritySwap"
   },
